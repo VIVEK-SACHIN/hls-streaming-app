@@ -1,0 +1,1 @@
+https://test-task2.s3.amazonaws.com/hls-videos/f76a2722-dc55-4e26-afb3-dee8fa851a8e/playlist.m3u8
